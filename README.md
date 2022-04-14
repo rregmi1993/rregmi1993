@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ram
 - 👀 I'm interested in Java Full Stack Development and Machine Learning
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on rregmi1993@gmail.com
 
 <!---
