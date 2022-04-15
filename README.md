@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ram
 - 👀 I'm interested in Java Full Stack Development and Machine Learning
-- 📫 How to reach me on rregmi1993@gmail.com
 
 <!---
 rregmi1993/rregmi1993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
