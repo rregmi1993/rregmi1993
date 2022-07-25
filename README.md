@@ -5,7 +5,7 @@
 Technical Stack:
 - Java, SpringBoot, Hibernate, JPA, Angular, GWT, Smart GWT.
 - Python, Machine Learning, Deep Learning, Recommendation System 
-- Jenkins, Sonar Quebe
+- Jenkins, SonarQube
  
 
 
