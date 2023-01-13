@@ -4,9 +4,11 @@
 
 Technical Stack:
 - Java, SpringBoot, Hibernate, JPA, Angular, GWT, Smart GWT.
-- Flask and FastAPI
+- Rest, Flask and FastAPI
+- MySQL, ORACLE, PostgreSQL 
 - Python, Machine Learning, Deep Learning, Recommendation System 
 - Jenkins, SonarQube
+- S3, RabbitMQ
  
 
 
