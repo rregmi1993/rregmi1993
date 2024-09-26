@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ram
-- 👀 I'm interested in Java Full Stack Development and Machine Learning
+- 👀 I'm interested in Full Stack Machine Learning, Deep Learning and LLM 
 
 
 Technical Stack:
