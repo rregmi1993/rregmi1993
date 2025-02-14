@@ -3,7 +3,7 @@
 
 
 Technical Stack:
-- Machine Learning, Deep Learning, Recommendation System, GenAI, LLM, NLP
+- Machine Learning, Deep Learning, Recommendation System, GenAI, LLM, NLP, Agentic AI
 - Java, SpringBoot, Hibernate, JPA, Angular, GWT, Smart GWT.
 - Rest, Flask and FastAPI
 - MySQL, ORACLE, PostgreSQL 
