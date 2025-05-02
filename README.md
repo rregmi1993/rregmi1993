@@ -4,7 +4,7 @@
 
 Technical Stack:
 - Machine Learning, Deep Learning, Recommendation System, GenAI, LLM, NLP, Agentic AI
-- Langchain, Langraph, CREW AI, Agno, LangSmith, LangServe
+- Langchain, LangGraph, CREW AI, Agno, LangSmith, LangServe
 - Java, SpringBoot, Hibernate, JPA, Angular, GWT, Smart GWT.
 - Rest, Flask and FastAPI
 - MySQL, ORACLE, PostgreSQL
