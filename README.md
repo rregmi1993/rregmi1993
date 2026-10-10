@@ -144,27 +144,6 @@ Exploring retrieval-augmented generation, multi-agent workflows, orchestration f
 
 ---
 
-## 📈 GitHub at a Glance
-
-<p align="center">
-  <a href="https://github.com/rregmi1993">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=rregmi1993&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight" alt="Ram's GitHub statistics" />
-  </a>
-  <a href="https://github.com/rregmi1993">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rregmi1993&layout=compact&theme=tokyonight" alt="Most used programming languages" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rregmi1993&theme=tokyonight" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rregmi1993&theme=tokyo-night" alt="GitHub contribution activity graph" />
-</p>
-
----
-
 ## 💡 What I Enjoy Building
 
 - 🧠 End-to-end machine learning solutions
