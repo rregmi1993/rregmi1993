@@ -143,6 +143,32 @@ Exploring retrieval-augmented generation, multi-agent workflows, orchestration f
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
+## 📚 Research Publications
+
+I have contributed to research in machine learning and related areas through peer-reviewed publications.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 Springer — Pattern Recognition
+
+Research article published in *Pattern Analysis and Applications*.
+
+🔗 [Read the publication on Springer](https://link.springer.com/article/10.1007/s10044-020-00883-8)
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 IEEE Xplore — Research Publication
+
+Research paper available through the IEEE Xplore Digital Library.
+
+🔗 [View the publication and authors on IEEE Xplore](https://ieeexplore.ieee.org/document/7507961/authors)
+
+</td>
+</tr>
+</table>
 
 ## 💡 What I Enjoy Building
 
@@ -156,16 +182,15 @@ Exploring retrieval-augmented generation, multi-agent workflows, orchestration f
 - 🌐 Full-stack applications powered by intelligent backends
 
 ---
-
 ## 🤝 Let's Connect
 
-I'm interested in exchanging ideas around applied AI, machine learning engineering, GenAI, LLMs, and scalable software architecture.
+I'm interested in exchanging ideas around applied AI, machine learning engineering, GenAI, LLMs, graph analytics, and scalable software architecture.
 
 <p align="center">
   <a href="https://github.com/rregmi1993">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/ramchandraregmi/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
 </p>
@@ -176,6 +201,4 @@ I'm interested in exchanging ideas around applied AI, machine learning engineeri
 
 <!--
 Thanks for visiting my profile!
-Replace the LinkedIn placeholder with your actual profile URL.
-GitHub statistics and external badges require their respective services to be available.
 -->
