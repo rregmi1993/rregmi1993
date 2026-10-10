@@ -9,6 +9,7 @@ My experience spans the complete journey from data and model development to API 
 - 🔭 **Currently working on:** Applied AI, risk scoring, entity relationships, and privacy-aware NLP solutions.
 - 🧠 **Exploring:** Agentic AI, LLM application architectures, RAG, and graph-based intelligence.
 - 🛠️ **Engineering background:** Python, Java, Spring Boot, Angular, FastAPI, and PostgreSQL.
+- ⚡ **Data engineering:** PySpark, distributed data processing, and data-intensive applications.
 - ☁️ **Cloud & DevOps:** AWS, Azure, Docker, Jenkins, and CI/CD.
 - 🎯 **My goal:** Turn complex data into reliable, scalable, and explainable AI solutions.
 
@@ -22,7 +23,7 @@ My experience spans the complete journey from data and model development to API 
 
 ### 🔐 Privacy-Aware NLP
 
-**GLiNER-based PII Detection**
+**GLiNER-Based PII Detection**
 
 Exploring named-entity recognition approaches for detecting personally identifiable information (PII) in unstructured text.
 
@@ -81,6 +82,14 @@ Exploring retrieval-augmented generation, multi-agent workflows, orchestration f
 ![Graph Analytics](https://img.shields.io/badge/Graph%20Analytics-3949AB?style=for-the-badge)
 ![GLiNER](https://img.shields.io/badge/GLiNER-6C63FF?style=for-the-badge)
 
+### ⚡ Big Data & Data Engineering
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+
 ### 🤖 Generative AI, LLMs & Agentic AI
 
 ![GenAI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
@@ -114,7 +123,7 @@ Exploring retrieval-augmented generation, multi-agent workflows, orchestration f
 ![Flask](https://img.shields.io/badge/Flask-222222?style=for-the-badge&logo=flask&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
 
-### 🗄️ Databases & Messaging
+### 🗄️ Databases, Storage & Messaging
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -131,9 +140,10 @@ Exploring retrieval-augmented generation, multi-agent workflows, orchestration f
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
+
 ## 📚 Research Publications
 
-I have contributed to research in machine learning and related areas through peer-reviewed publications.
+I have contributed to research in machine learning and related areas through research publications.
 
 <table>
 <tr>
@@ -158,21 +168,25 @@ Research paper available through the IEEE Xplore Digital Library.
 </tr>
 </table>
 
+---
+
 ## 💡 What I Enjoy Building
 
 - 🧠 End-to-end machine learning solutions
 - 🔎 NLP systems and intelligent entity extraction
 - 🕸️ Graph-based relationship and association discovery
 - 📊 Hybrid ML models and scoring systems
+- ⚡ Scalable data processing with PySpark
 - 🤖 LLM-powered applications and AI agents
 - 🔗 RAG pipelines and vector search solutions
 - ⚙️ APIs and production-oriented AI services
 - 🌐 Full-stack applications powered by intelligent backends
 
 ---
+
 ## 🤝 Let's Connect
 
-I'm interested in exchanging ideas around applied AI, machine learning engineering, GenAI, LLMs, graph analytics, and scalable software architecture.
+I'm interested in exchanging ideas around applied AI, machine learning engineering, GenAI, LLMs, graph analytics, big data, and scalable software architecture.
 
 <p align="center">
   <a href="https://github.com/rregmi1993">
@@ -187,6 +201,4 @@ I'm interested in exchanging ideas around applied AI, machine learning engineeri
   <i>"Building intelligent systems at the intersection of data science, AI, and software engineering."</i>
 </p>
 
-<!--
-Thanks for visiting my profile!
--->
+<!-- Thanks for visiting my profile! -->
