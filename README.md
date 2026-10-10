@@ -50,7 +50,7 @@ Applying graph-based formulations and relationship analysis to identify connecti
 
 Working with hybrid modeling approaches that combine complementary modeling techniques to derive meaningful background record scores.
 
-`Machine Learning` `Hybrid Modeling` `Scoring Models`
+`NLP` `Machine Learning` `Hybrid Modeling` `Scoring Models`
 
 </td>
 <td width="50%" valign="top">
@@ -67,21 +67,9 @@ Exploring retrieval-augmented generation, multi-agent workflows, orchestration f
 </tr>
 </table>
 
-<details>
-<summary><b>🔍 Explore my approach to building AI solutions</b></summary>
-
-1. **Understand the problem:** Translate business requirements into measurable ML objectives.
-2. **Engineer the data:** Prepare features, extract entities, and identify meaningful relationships.
-3. **Develop the models:** Experiment with ML, NLP, deep learning, and hybrid modeling strategies.
-4. **Evaluate performance:** Validate models using appropriate metrics and business requirements.
-5. **Build the application:** Integrate models into APIs and backend services.
-6. **Deploy and improve:** Apply engineering practices for scalable deployment, monitoring, and iteration.
-
-</details>
-
 ---
 
-## 🧰 Technical Arsenal
+## 🧰 Technical Stack
 
 ### 🧠 AI, Machine Learning & Data Science
 
