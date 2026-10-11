@@ -10,7 +10,7 @@ My experience spans the complete journey from data and model development to API 
 - 🧠 **Exploring:** Agentic AI, LLM application architectures, RAG, and graph-based intelligence.
 - 🛠️ **Engineering background:** Python, Java, Spring Boot, Angular, FastAPI, and PostgreSQL.
 - ⚡ **Data engineering:** PySpark, distributed data processing, and data-intensive applications.
-- ☁️ **Cloud & DevOps:** AWS, Azure, Docker, Jenkins, and CI/CD.
+- ☁️ **Cloud & DevOps:** AWS, GCP, Docker, Jenkins, and CI/CD.
 - 🎯 **My goal:** Turn complex data into reliable, scalable, and explainable AI solutions.
 
 ---
@@ -134,7 +134,6 @@ Exploring retrieval-augmented generation, multi-agent workflows, orchestration f
 ### ☁️ Cloud, DevOps & Quality Engineering
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
